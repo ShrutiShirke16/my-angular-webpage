@@ -1,5 +1,5 @@
 import React from 'react';
 function Hello() {
- return <p>Hello, World my name is shruti !</p>;
+ return <p>Hello, World  !</p>;
 }
 export default Hello;
